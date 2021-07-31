@@ -1,0 +1,48 @@
+{
+	"basics": {
+		"name": "---Priyanshu Gautam---",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "---2020kuec2054@iiitkota.ac.in---",
+		"phone": "---7742430912---",
+		"location": {
+			"address": "67, Jaihind Nagar, Police line",
+			"postalCode": "324001",
+			"city": "Kota",
+			"countryCode": "India",
+			"region": "---Rajasthan---"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "09priyanshu09",
+				"url": "https://www.github.com/<09priyanshu09>/"
+			},
+			{
+				"network": "Instagram",
+				"username": "pg2k1",
+				"url": "https://instagram.com/<pg2k1>"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor in technology",
+		"startDate": "2020-12-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "beginer",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Add more"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
