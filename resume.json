@@ -1,16 +1,16 @@
 {
 	"basics": {
-		"name": "---Priyanshu Gautam---",
+		"name": "Priyanshu Gautam",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---2020kuec2054@iiitkota.ac.in---",
-		"phone": "---7742430912---",
+		"picture": "https://avatars.githubusercontent.com/u/88218253?s=400&u=9adb89f8386786de73b4b7f00a559909005c04b2&v=4",
+		"email": "2020kuec2054@iiitkota.ac.in",
+		"phone": "7742430912",
 		"location": {
 			"address": "67, Jaihind Nagar, Police line",
 			"postalCode": "324001",
 			"city": "Kota",
 			"countryCode": "India",
-			"region": "---Rajasthan---"
+			"region": "Rajasthan"
 		},
 		"profiles": [
 			{
@@ -29,9 +29,6 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor in technology",
-		"startDate": "2020-12-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
 		"courses": [
 			"Electronics and Communication Engineering"
 		]
